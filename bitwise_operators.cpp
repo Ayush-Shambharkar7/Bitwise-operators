@@ -1,6 +1,6 @@
 //Ayush Shambharkar
 //23070123034
-//Basic use of bitwise operstors.
+//Aim - Basic use of bitwise operstors.
 
 #include<iostream>
 using namespace std;
@@ -34,7 +34,9 @@ int main()
     cout<<"right shift: "<<right_shift<<endl;
 }
 
-/*Enter value of a: 7
+/*
+OUTPUT:
+Enter value of a: 7
 Enter value of b: 9
 AND operator: 1
 OR operator: 15
@@ -50,4 +52,5 @@ OR operator: 13
 EXOR_op operator: 13
 NOT operator-9
 left shift: 32
-right shift: 2*/
+right shift: 2
+*/
