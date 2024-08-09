@@ -1,6 +1,6 @@
 //Ayush Shambharkar
 //23070123034
-// to set or reset a particular bit
+//Aim - to set or reset a particular bit
 
 
 #include<iostream>
@@ -24,7 +24,9 @@ int main()
     cout<<"Reset: "<<reset<<endl;
 }
 
-/*Enter the number to be set or reset: 5
+/*
+OUTPUT:
+Enter the number to be set or reset: 5
 Enter the bit to be changed: 1 2
 set: 7
 Reset: 1
@@ -32,4 +34,5 @@ Reset: 1
 Enter the number to be set or reset: 7
 Enter the bit to be changed: 3 2
 set: 15
-Reset: 3*/
+Reset: 3
+*/
